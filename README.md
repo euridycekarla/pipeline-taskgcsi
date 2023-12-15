@@ -1,6 +1,6 @@
 <h1 align="center"> pipeline-taskgcsi </h1>
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/euridycekarla/pipeline-taskgcsi/assets/91157048/d870f424-eb67-4ff7-8802-c4aa1d2c67f6"  width="200px"/>
+    <img src="https://github.com/euridycekarla/pipeline-taskgcsi/assets/91157048/d870f424-eb67-4ff7-8802-c4aa1d2c67f6"  width="100px"/>
 </div>
 
 <h2> Atividade de GCSI<br></br>
